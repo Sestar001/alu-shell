@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "pwd"
-echo "pwd command"
-6a0a5ee1ebe6bcece2927c33ccd604e06e36655f
+pwd
