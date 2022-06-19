@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#command that displays pid
+ps
