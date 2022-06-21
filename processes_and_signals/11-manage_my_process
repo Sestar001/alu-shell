@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Bash script that creates a subprocess
+#Script which manages another file
 
 PIDFILE=/var/run/my_process.pid
 
